@@ -1,0 +1,2 @@
+# Chanter Practice
+Chanter Practice is an application of Audovia which uses JFugue MusicString notation to let you make music with up to fifteen instrumental voices and a percussion track.  Notes within a MusicString are specified by their name and duration.  Durations can be expressed as pulses where 32 pulses represents a quarter note (crotchet).  An 'E' quarter note preceded by a 'G' gracenote can be written as [G]/2 [E]/30. 
